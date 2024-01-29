@@ -1,6 +1,6 @@
-#Introduction
+# Introduction
 First, I signed up on warchall.net, entered my email address with a password, and confirmed them. After that, I went to the challenge, stole the flag, and entered in. Then, the website provided SSH access to my terminal so I could begin the challenge. 
- #Command:
+ # Command:
 - cd : change directory;
 - cat: show the content;
 - ls: list files in the current folder;
